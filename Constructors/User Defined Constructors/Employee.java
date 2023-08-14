@@ -3,7 +3,7 @@ package com.jsp.Constructor;
 public class Employee {
 	
 	String name;
-	static int id = 54;
+	int id;
 	double salary;
 	String email;
 	String designation;
